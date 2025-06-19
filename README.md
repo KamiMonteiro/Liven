@@ -1,6 +1,6 @@
 # Desafio Brasileirão 📊
 
-Repositório com a análise completa do Campeonato Brasileiro Série A, integrando dados de partidas, estatísticas, cartões e gols. A análise contempla a construção de bases, visualizações - inclusive radar e tabelas comparativas -, além de insights sobre fatores que impactam o resultado das partidas.
+Repositório com a análise completa do Campeonato Brasileiro Série A, integrando dados de partidas, estatísticas, cartões e gols. A análise contempla a construção de bases, visualizações -  tabelas comparativas -, além de insights sobre fatores que impactam o resultado das partidas.
 
 ---
 
@@ -26,7 +26,6 @@ Repositório com a análise completa do Campeonato Brasileiro Série A, integran
    - Criação de `df_merged` com estatísticas do mandante e visitante lado a lado, e resultado da partida.
 3. **Análise exploratória**
    - Gráficos comparativos: posse, chutes, escanteios, cartões, faltas, passes, etc.
-   - Radar comparativo entre times vencedores, perdedores e empates.
    - Tabela comparativa de métricas por resultado.
 4. **Insights**
    - Ver se posse de bola está relacionada a vitórias.
